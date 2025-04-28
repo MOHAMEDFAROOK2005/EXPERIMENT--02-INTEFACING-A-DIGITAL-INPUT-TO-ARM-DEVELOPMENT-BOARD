@@ -83,7 +83,8 @@ while (1)
 
 
 ## Output  :
- ![image](https://github.com/user-attachments/assets/5f9547a1-d115-4cb7-ab20-58f50d5b6101)
+ ![Screenshot 2025-04-28 135820](https://github.com/user-attachments/assets/b1d40d25-e365-47ed-ac75-005ab8a5d424)
+
 
 
 ## layout of the circuit 
