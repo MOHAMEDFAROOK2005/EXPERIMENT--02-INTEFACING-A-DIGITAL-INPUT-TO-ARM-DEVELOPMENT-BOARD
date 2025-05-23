@@ -83,7 +83,9 @@ while (1)
 
 
 ## Output  :
- ![Screenshot 2025-04-28 135820](https://github.com/user-attachments/assets/b1d40d25-e365-47ed-ac75-005ab8a5d424)
+![image](https://github.com/user-attachments/assets/4d5e3729-a59a-4fe2-9c07-1a56c2ec3af8)
+
+![Uploading image.png…]()
 
 
 
